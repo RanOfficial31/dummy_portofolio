@@ -382,14 +382,14 @@ h3.my-profession {
 }
 
 
-.home-img::after {
+/* .home-img::after {
     content: "";
     position: absolute;
     height: 80px;
     width: 80px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
-    right: 15px;
+    right: 30px;
     bottom: 0px;
 }
 
@@ -402,11 +402,11 @@ h3.my-profession {
     border-left: 10px solid var(--skin-color);
     left: 10px;
     top: 0px;
-}
+} */
 
 /* foto setting */
 .home .home-img img {
-    height: 300px;
+    height: 250px;
     width: 230px;
 }
 
@@ -708,7 +708,7 @@ h3.my-profession {
 }
 
 .btn {
-    height: 40px;
+    height: 35px;
     padding: 0 50px;
     margin-right: 60px;
 }
